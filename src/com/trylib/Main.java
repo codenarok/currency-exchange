@@ -1,6 +1,6 @@
 package com.trylib;
-import currency-converter
-public class Mainz {
+import com.currencyexchange.*;
+public class Main {
     public static void main(String[] args) {
 
     }
